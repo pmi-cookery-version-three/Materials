@@ -3,6 +3,10 @@
 #Список ресурсов
 http://telegra.ph/Spisok-poleznyh-resursov-dlya-Android-razrabotchika-02-04
 -----------------
+#Туториал по Git
+https://try.github.io/levels/1/challenges/1
+#github education pack
+https://education.github.com/pack
 
 | Список группы  | Проект |
 | ------------- |:-------------:|
